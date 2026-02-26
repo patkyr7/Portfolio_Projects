@@ -16,6 +16,7 @@ A Python tool, which the user can analyze their videos' data with a CSV file.
 - Displays separately Full-Length YouTube Videos Data and YouTube Short Videos Data with different colors for each group.
 
 ## Features TikTok Videos
+- Allows the user to use their own CSV files.
 - Counts total Views, Likes and Video Count.
 - Calculates the average of likes and views.
 - Searches for the highest and lowest values of the above data, as well as to which video they belong to.
@@ -25,13 +26,15 @@ A Python tool, which the user can analyze their videos' data with a CSV file.
 - Displays seperately from the Youtube analytics its data and in a different color.
 
 ## How to run
-1. Place your CSV Folders in the Data Folder.
-2. Run main.py
-3. Input the exact path of your file, as well as the name of the data and the .csv in the end.
-4. To exit, simply input 'Exit' when the file path is asked or when you're asked, if you
+1. Place your CSV Folders in the Data Folder. In this version, only either Youtube CSV files with rows of likes, dislikes, impressions, views, dislikes, subscriptions and upload time or
+   TikTok CSV files with likes, views and upload time are compatible.
+3. Run main.py
+4. Input the exact path of your file, as well as the name of the data and the .csv in the end.
+5. To exit, simply input 'Exit' when the file path is asked or when you're asked, if you
    want to continue, simply type 'no'.
 
 ## Requirements
 1. Windows 8 or later
 
 2. Python 3.13.7 or later
+
