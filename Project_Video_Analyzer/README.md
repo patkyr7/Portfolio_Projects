@@ -26,6 +26,7 @@ A Python tool, which the user can analyze their videos' data with a CSV file.
 - Displays seperately from the Youtube analytics its data and in a different color.
 
 ## How to run
+1. Before running, run pip install -r dependencies.txt in your terminal
 1. Place your CSV Folders in the Data Folder. In this version, only either Youtube CSV files with rows of likes, dislikes, impressions, views, dislikes, subscriptions and upload time or
    TikTok CSV files with likes, views and upload time are compatible.
 3. Run main.py
@@ -36,5 +37,5 @@ A Python tool, which the user can analyze their videos' data with a CSV file.
 ## Requirements
 1. Windows 8 or later
 
-2. Python 3.13.7 or later
+
 
