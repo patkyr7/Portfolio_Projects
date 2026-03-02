@@ -18,4 +18,4 @@ Fortune Teller is my very first project. It is a story-text-based game. Objectiv
 
 ## Requirements
 1. Windows 8 or later
-2. Python 3.13 or later
+
