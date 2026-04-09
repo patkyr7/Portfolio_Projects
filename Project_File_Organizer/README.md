@@ -1,9 +1,9 @@
 ## File Organizer
 
-Description
+## Description
 A simple data organizing tool. User inputs the folder path, and the program organizes based on already given categories.
 
-Features
+## Features
 - Scans a user-defined directory for files
 - Automatically categorizes files by extension
 - Supports multiple file types:
@@ -17,13 +17,13 @@ Features
 - Displays a summary of moved files
 - Interactive user prompts for safety and control
 
-How to run:
+## How to run:
 1. Before running, run pip install -r dependencies.txt in your terminal
 2. Run file_organizer.py
 3. Input the EXACT path of the folder you wish to organize
 4. Follow the instructions in the code
 
-Requirements:
+## Requirements:
 Windows 8 or later
 Python
 Note: Dependencies not required, only standard Python library used.
