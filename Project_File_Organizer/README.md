@@ -23,3 +23,7 @@ How to run:
 3. Input the EXACT path of the folder you wish to organize
 4. Follow the instructions in the code
 
+Requirements:
+Windows 8 or later
+Python
+Note: Dependencies not required, only standard Python library used.
