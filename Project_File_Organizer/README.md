@@ -1,4 +1,4 @@
-File Organizer
+## File Organizer
 
 Description
 A simple data organizing tool. User inputs the folder path, and the program organizes based on already given categories.
