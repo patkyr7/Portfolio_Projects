@@ -7,11 +7,11 @@ A simple data organizing tool. User inputs the folder path, and the program orga
 - Scans a user-defined directory for files
 - Automatically categorizes files by extension
 - Supports multiple file types:
-    Images (.jpg, .png, .svg, .cube, etc.)
-    Videos (.mp4, .mkv, .mov, etc.)
-    Audio (.mp3, .wav, .flac, etc.)
-    Documents (.pdf, .docx, .txt, etc.)
-    Compressed files (.zip, .rar, .7z, etc.)
+    1, Images (.jpg, .png, .svg, .cube, etc.)
+    2. Videos (.mp4, .mkv, .mov, etc.)
+    3. Audio (.mp3, .wav, .flac, etc.)
+    4. Documents (.pdf, .docx, .txt, etc.)
+    5. Compressed files (.zip, .rar, .7z, etc.)
 - Creates destination folders automatically if they don’t exist
 - Skips hidden and system files to prevent unwanted changes
 - Displays a summary of moved files
