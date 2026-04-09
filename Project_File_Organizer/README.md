@@ -26,4 +26,4 @@ A simple data organizing tool. User inputs the folder path, and the program orga
 ## Requirements:
 - Windows 8 or later
 - Python
-Note: Dependencies not required, only standard Python library used.
+- Note: Dependencies not required, only standard Python library used.
